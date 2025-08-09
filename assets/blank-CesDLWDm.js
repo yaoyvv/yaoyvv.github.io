@@ -1,0 +1,1 @@
+import{g as o,q as t,c,o as r,a as s}from"./index-DfAD_XQf.js";const n={},a={class:"tdesign-wrapper"};function _(d,p){const e=t("router-view");return r(),c("div",a,[s(e)])}const l=o(n,[["render",_],["__scopeId","data-v-d2d85c5e"]]);export{l as default};
